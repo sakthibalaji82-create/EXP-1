@@ -46,12 +46,12 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- <img width="920" height="461" alt="Screenshot 2025-11-12 092049" src="https://github.com/user-attachments/assets/c6d55584-0b8d-4474-aced-0040d0a603f4" />
+![Untitled](https://github.com/user-attachments/assets/16ce647d-1f45-44bf-aefc-ef08d9109704)
 
 
 
 b.  KCL:
- <img width="1920" height="1080" alt="Screenshot 2025-11-12 094731" src="https://github.com/user-attachments/assets/1edb407f-57ef-45ff-ad7e-f8acfb2a2e0a" />
+![Untitled](https://github.com/user-attachments/assets/5f1723f0-c278-4d50-9d3d-a7caaef07dcf)
 
 
 Calculation:
@@ -113,6 +113,7 @@ a.   KVL:
  |:-----:|:-----:|:------------:|:--------------:|:---------------:|:-----------------------------------------:|
  |Theoretical|100|16.68V|27.8V|55.6V|100.05V|
  |partical|100|16.7V|27.8V|55.6V|100.1V|
+![Untitled](https://github.com/user-attachments/assets/1dbf33d4-f950-4240-90fc-dbd9a92c3b61)
 
 b.  KCL:
 
@@ -120,6 +121,7 @@ b.  KCL:
  |:-----:|:-----:|:------------:|:--------------:|:---------------:|
  |Theoretical|1.58A|1.05A|0.53A|52.63V|
  |partical|1.58A|1.05A|0.53V|52.6V|
+![Untitled](https://github.com/user-attachments/assets/cf803758-6cc1-456f-a7c5-ea3314f40e87)
 
 
 RESULT:
